@@ -18,7 +18,7 @@ Analisis ini bertujuan untuk memahami perilaku retensi pelanggan pada platform m
 - Kategori produk **bed_bath_table** dan **health_beauty** paling banyak di repeat order.
 - Rata-rata review score pelanggan repeat order adalah **4.2/5**.
 - **Credit card** mendominasi metode pembayaran pelanggan repeat order (9.064 pelanggan).
-- **93%** pelanggan repeat order menerima pesanan tepat waktu.
+- **93%** pelanggan repeat order menerima pesanan tepat waktu (belum dibandingkan dengan pelanggan sekali beli).
 
 ---
 

@@ -77,7 +77,7 @@ Tujuan dari analisis ini adalah melihat **faktor pendorong** apa saja yang bisa 
 ### BQ5: Pengaruh Ketepatan Pengiriman Pada Pelanggan Repeat Order
 **Fakta:** Pelanggan repeat order yang mendapatkan pesanannya **tepat waktu** sebanyak **2.616 pelanggan**, sedangkan yang **telat** sebanyak **185 pelanggan**.
 
-**Insight:** Terdapat **pengaruh kuat ketepatan pengiriman** terhadap keputusan pelanggan dalam melakukan repeat order. Perusahaan perlu mempertahankan ketepatan waktu pengiriman dengan **memprioritaskan seller yang punya track record pengiriman tepat waktu**.
+**Insight:** Mayoritas pelanggan repeat order menerima pesanannya tepat waktu. Namun, angka ini belum dibandingkan dengan pelanggan sekali beli, sehingga belum bisa disimpulkan bahwa ketepatan pengiriman menjadi penyebab repeat order. Analisis lanjutan diperlukan untuk menguji hubungan tersebut.
 
 ---
 
@@ -90,4 +90,4 @@ Tujuan dari analisis ini adalah melihat **faktor pendorong** apa saja yang bisa 
 ---
 
 ## 9. Executive Summary
-Analisis ini menemukan bahwa hanya **3% pelanggan** yang melakukan repeat order dari total 93.358 pelanggan. **Ketepatan pengiriman** terbukti menjadi pengaruh kuat **93% repeat customer** menerima pesanan tepat waktu. **Credit card** sangat mendominasi metode pembayaran repeat customer (9.064 pelanggan), sehingga bisa dimanfaatkan untuk program cicilan atau cashback. Kategori produk **`bed_bath_table`** dan **`health_beauty`** paling banyak di repeat order dan bisa dijadikan prioritas promosi. Walaupun begitu, adanya **211 pelanggan yang memberi score 1–2** namun tetap kembali membeli perlu dievaluasi sebelum loyalitas mereka terhenti. Dengan analisis ini, perusahaan memiliki pemahaman dalam mengelompokkan perilaku pelanggan dan mengalokasikan **biaya promosi yang lebih tepat sasaran**.
+Analisis ini menemukan bahwa hanya **3% pelanggan** yang melakukan repeat order dari total 93.358 pelanggan. 93% pelanggan repeat order menerima pesanan tepat waktu, meski hubungannya dengan repeat order belum diuji dengan pembanding. **Credit card** sangat mendominasi metode pembayaran repeat customer (9.064 pelanggan), sehingga bisa dimanfaatkan untuk program cicilan atau cashback. Kategori produk **`bed_bath_table`** dan **`health_beauty`** paling banyak di repeat order dan bisa dijadikan prioritas promosi. Walaupun begitu, adanya **211 pelanggan yang memberi score 1–2** namun tetap kembali membeli perlu dievaluasi sebelum loyalitas mereka terhenti. Dengan analisis ini, perusahaan memiliki pemahaman dalam mengelompokkan perilaku pelanggan dan mengalokasikan **biaya promosi yang lebih tepat sasaran**.
